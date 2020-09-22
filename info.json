@@ -1,5 +1,5 @@
 data = [{'name_en': 'Pioneer Educational Schools',
          'name_ar': 'مدارس التربية الريادية',
          'db_name': 'mobile-test',
-         'url': 'https://tw13-qa.smartway.co/',
+         'url': 'https://tw13-qa.smartway.co',
          'image': 'https://raw.githubusercontent.com/Trackware/sms-info/master/pes.png'}]
