@@ -1,0 +1,5 @@
+data = [{'name_english': 'Pioneer Educational Schools',
+         'name_arabic': 'مدارس التربية الريادية',
+         'db-name': 'mobile-test',
+         'url': 'pes-staging.trackware.com',
+         'image': 'https://raw.githubusercontent.com/Trackware/sms-info/master/pes.png'}]
