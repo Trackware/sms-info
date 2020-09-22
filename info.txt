@@ -1,3 +1,3 @@
 pes = {'db-name': 'mobile-test',
        'url': 'pes-staging.trackware.com',
-       'image': }
+       'image': 'https://raw.githubusercontent.com/Trackware/sms-info/master/pes.png'}
