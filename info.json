@@ -2,14 +2,14 @@
 {
 "name_en": "Pioneer Educational Schools",
 "name_ar": "مدارس التربية الريادية",
-"db_name": "pes-staging18102020",
+"db_name": "pes-staging",
 "url": "https://pes-staging.trackware.com",
 "image": "https://raw.githubusercontent.com/Trackware/sms-info/master/pes.png"
 },
 {
 "name_en": "Rum International School",
 "name_ar": "مدارس رم الدولية",
-"db_name": "ris-staging18102020",
+"db_name": "ris-staging",
 "url": "https://ris-staging.smartway.co",
 "image": "https://raw.githubusercontent.com/Trackware/sms-info/master/ris.png"
 }
