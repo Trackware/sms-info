@@ -12,6 +12,13 @@
 "db_name": "ris-staging",
 "url": "https://ris-staging.trackware.com",
 "image": "https://raw.githubusercontent.com/Trackware/sms-info/master/ris.png"
+},
+{
+"name_en": "Dev-Mobile-Test",
+"name_ar": "Dev-Mobile-Test",
+"db_name": "Closer-Suite",
+"url": "https://tw13-dev.smartway.co",
+"image": "https://raw.githubusercontent.com/Trackware/sms-info/master/ris.png"
 }
          
          
